@@ -1,7 +1,8 @@
 # 💊 Pharma Supply Analytics
 
-## Objective
+## [click here to see live dashboard](https://pharma-supply-analytics.streamlit.app/)
 
+## Objective
 In this project, I designed and implemented an end-to-end data analytics pipeline for analyzing pharmaceutical drug supply and availability data.
 
 The project consists of several stages:
